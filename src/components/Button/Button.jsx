@@ -4,7 +4,7 @@ const Button = ({ handlerClick }) => {
   return (
     <button className="switch_btn" onClick={handlerClick}>
       
-        <i class='bx bx-loader'></i>
+        <i className='bx bx-loader'></i>
     </button>
   )
 }
